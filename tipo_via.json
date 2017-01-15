@@ -1,0 +1,9 @@
+[{"tipo_via_id":"1","nombre_via":"Condominio"},
+	{"tipo_via_id":"2","nombre_via":"Domicilio"},
+	{"tipo_via_id":"3","nombre_via":"Edificio"},
+	{"tipo_via_id":"4","nombre_via":"Institución educativa"},
+	{"tipo_via_id":"5","nombre_via":"Local comercial"},
+	{"tipo_via_id":"6","nombre_via":"Otros"},
+	{"tipo_via_id":"7","nombre_via":"Transporte publico"},
+	{"tipo_via_id":"8","nombre_via":"Vehículo"},
+	{"tipo_via_id":"9","nombre_via":"Vía publica"}]
